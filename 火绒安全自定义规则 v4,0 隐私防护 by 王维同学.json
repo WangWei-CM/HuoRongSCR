@@ -1,0 +1,218 @@
+﻿{
+    "ver":"5.0",
+    "tag":"hipsuser",
+    "data":[
+        {
+            "id":70,
+            "power":1,
+            "name":"【隐私】360安全浏览器",
+            "procname":"*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360se*\\User Data\\Default\\Cookies"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360se*\\User Data\\Local State"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360se*\\User Data\\Default\\History"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360se*\\User Data\\Default\\Favicons"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360se*\\User Data\\Default\\Login Data"
+                }
+            ]
+        },
+        {
+            "id":71,
+            "power":1,
+            "name":"【隐私】360极速浏览器",
+            "procname":"*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360Chrome*\\Chrome\\User Data\\Default\\Cookies"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360Chrome*\\Chrome\\User Data\\Local State"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360Chrome*\\Chrome\\User Data\\Default\\History"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360Chrome*\\Chrome\\User Data\\Default\\Favicons"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\360Chrome*\\Chrome\\User Data\\Default\\Login Data"
+                }
+            ]
+        },
+        {
+            "id":72,
+            "power":1,
+            "name":"【隐私】Edge浏览器",
+            "procname":"*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Microsoft\\Edge\\User Data\\Default\\Cookies"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Microsoft\\Edge\\User Data\\Local State"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Microsoft\\Edge\\User Data\\Default\\History"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Microsoft\\Edge\\User Data\\Default\\Favicons"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Microsoft\\Edge\\User Data\\Default\\Login Data"
+                }
+            ]
+        },
+        {
+            "id":73,
+            "power":1,
+            "name":"【隐私】QQ",
+            "procname":"*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Tencent Files\\*"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\AppData\\*\\Tencent\\*QQ*\\*"
+                }
+            ]
+        },
+        {
+            "id":74,
+            "power":1,
+            "name":"【隐私】微信",
+            "procname":"*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\WeChat Files\\*"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\AppData\\*\\Tencent\\*WeChat*\\*"
+                }
+            ]
+        },
+        {
+            "id":75,
+            "power":1,
+            "name":"【隐私】火狐浏览器",
+            "procname":"*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Mozilla\\Firefox\\Profiles\\*\\cookies.sqlite"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Mozilla\\Firefox\\Profiles\\*\\favicons.sqlite"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Mozilla\\Firefox\\Profiles\\*\\places.sqlite"
+                }
+            ]
+        },
+        {
+            "id":76,
+            "power":1,
+            "name":"【隐私】谷歌浏览器",
+            "procname":"*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Google\\Chrome\\User Data\\Default\\Cookies"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Google\\Chrome\\User Data\\Local State"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Google\\Chrome\\User Data\\Default\\History"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Google\\Chrome\\User Data\\Default\\Favicons"
+                },
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\Google\\Chrome\\User Data\\Default\\Login Data"
+                }
+            ]
+        },
+        {
+            "id":77,
+            "power":1,
+            "name":"【隐私】钉钉",
+            "procname":"*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":2,
+                    "res_path":"*\\AppData\\*\\*DingTalk*\\*"
+                }
+            ]
+        }
+    ]
+}
